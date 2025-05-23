@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "zxyycdc",
+  "repo": "container-qmnv7da",
+  "name": "zxyycdc",
+  "email": "zxyycdc@gmail.com",
+}
